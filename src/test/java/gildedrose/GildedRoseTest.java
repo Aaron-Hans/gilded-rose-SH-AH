@@ -1,3 +1,5 @@
+package gildedrose;
+
 import gildedrose.Shop;
 
 import org.junit.jupiter.api.Test;
